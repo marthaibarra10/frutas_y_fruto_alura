@@ -1,0 +1,4 @@
+.rodapie__item{
+    /*PARA QUITAR LOS PUNTITOS A LOS ICONOS*/
+    list-style: none;
+}

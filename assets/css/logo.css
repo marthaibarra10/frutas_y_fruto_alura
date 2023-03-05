@@ -1,0 +1,14 @@
+/*Aqui desaparece la imagen cuado la pantalla mide de 0 a 767px*/
+@media screen and (min-width:0) {
+    .logo{
+        display: none;
+    }
+}
+
+/*Aqui APARECE la imagen cuado la pantalla mide MAS DE 768px*/
+@media screen and (min-width:768px) {
+    .logo{
+        display: block;
+    }
+}
+
